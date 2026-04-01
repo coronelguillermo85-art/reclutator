@@ -19,7 +19,7 @@ En esta expansión, el desafío escala. Represento de forma satírica y técnica
 ## 🚀 ¡JUGALO AHORA!
 No pierdas tiempo con el código, vencé al reptil del reclutamiento aquí:
 
-👉 **[ESTRENAR RECLUTATOR EN VERCEL](https://job-seeker-pro-two.vercel.app/)**
+👉 **[https://reclutator.vercel.app/](https://job-seeker-pro-two.vercel.app/)**
 
 ---
 
