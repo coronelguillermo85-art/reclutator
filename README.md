@@ -2,7 +2,8 @@
 
 ¡Bienvenido a la secuela de **Job Seeker Pro**! Si pensaste que superar los filtros ATS era difícil, prepárate para enfrentar al **Reclutador Dinosaurio**. 
 
-![Reclutator Flyer](https://raw.githubusercontent.com/coronelguillermo85-art/reclutator/main/reclutator%20flyer.png)
+![Reclutator Flyer](![Uploading image.png…]()
+)
 
 ## 🎮 El Concepto
 En esta expansión, el desafío escala. Represento de forma satírica y técnica las barreras más comunes del mercado laboral actual:
