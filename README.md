@@ -4,7 +4,7 @@
 
 !<img width="1024" height="1536" alt="reclutator flyer" src="https://github.com/user-attachments/assets/e12749b6-9a8b-479c-bc2f-d35db253b70d" />
 
-)
+
 
 ## 🎮 El Concepto
 En esta expansión, el desafío escala. Represento de forma satírica y técnica las barreras más comunes del mercado laboral actual:
