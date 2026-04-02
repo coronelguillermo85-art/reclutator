@@ -2,7 +2,7 @@
 
 ¡Bienvenido a la secuela de **Job Seeker Pro**! Si pensaste que superar los filtros ATS era difícil, prepárate para enfrentar al **Reclutador Dinosaurio**. 
 
-<img width="1024" height="1536" alt="reclutator flyer" src="https://github.com/user-attachments/assets/e12749b6-9a8b-479c-bc2f-d35db253b70d" />
+< /<img width="1121" height="1402" alt="ChatGPT Image 1 abr 2026, 21_13_45" src="https://github.com/user-attachments/assets/ce3fffa2-8f2a-43d4-a757-5197cbfa3f50" />>
 
 
 
